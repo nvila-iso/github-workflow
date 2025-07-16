@@ -12,7 +12,7 @@ Since this workshop focuses on working with another developer, **do not continue
 
 1. [Repo Setup](/sections/01-repo_setup.md)
 2. [Feature Branches](/sections/02-feature_branches.md)
-3. [Pull Requests](/sections/03-pull_requests.md)
+3. There is nothing permanent, except change.
 4. [Merge Conflicts](/sections/04-merge_conflicts.md)
 5. [Cleanup](/sections/05-cleanup.md)
 6. [Recap](/sections/06-recap.md)
